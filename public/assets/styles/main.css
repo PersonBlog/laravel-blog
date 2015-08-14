@@ -178,7 +178,7 @@ h1 {
     padding: 10px 20px;
 }
 .comment-input {
-    margin-top: 50px;
+    margin-top: 60px;
 }
 .comments-pager {
     margin-bottom: -50px;
@@ -270,3 +270,7 @@ h1 {
   /* Height of image */
   text-indent: -999999px; }
 /*----------------------- scrollUp End -----------------------*/
+
+.comment_body{
+word-break:break-all; word-wrap:break-word;
+}
